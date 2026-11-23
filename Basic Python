@@ -1,0 +1,10 @@
+python-learning/
+│
+├── README.md
+├── basics/
+│   ├── variables.py
+│   ├── loops.py
+│   ├── functions.py
+│   └── lists.py
+│
+└── .gitignore
